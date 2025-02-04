@@ -1,0 +1,15 @@
+{
+  "name": "vectorremote",
+  "version": "1.0.0",
+  "description": "Take home test for vector remote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "T Perry",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
